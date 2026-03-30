@@ -267,7 +267,7 @@ streamlit run app.py
 BCA 2nd Year | Lucknow, India
 
 🔗 **Connect with me:**
-- GitHub: [github]
+- GitHub: [github](https://github.com/Prabhat-Singh-01)
 - LinkedIn: [linkedin](https://www.linkedin.com/in/prabhat-singh-a6a58132a/)
 - Email: prabhatsingh.connect01@gmail.com
 
