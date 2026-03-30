@@ -36,7 +36,7 @@ interactive dashboards, and machine learning.
 RetailPulse/
 │
 ├── sql/
-│   └── business_queries.sql      # 25 business SQL queries
+│   └── business_queries.sql      # 15 business SQL queries
 │
 ├── notebooks/
 │   └── retailpulse_eda.ipynb     # EDA & visualizations
